@@ -3,7 +3,7 @@ Version:	47355
 Release:	2
 Summary:	Dutch language module for the datetime2 package
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/datetime2-dutch
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/datetime2-dutch
 License:	lppl1.3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/datetime2-dutch.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/datetime2-dutch.doc.r%{version}.tar.xz
